@@ -3,15 +3,17 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+# Navigation Links
+
 main:
   - name: Home
     url: '/'
     weight: 10
 
   - name: Publications
-    url: 'publication/'
+    url: '/publication/'
     weight: 20
 
   - name: CV
-    url: 'uploads/Marco_Borriero_CV.pdf'
+    url: '/uploads/Marco_Borriero_CV.pdf'
     weight: 30
