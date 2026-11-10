@@ -108,6 +108,7 @@ hugoblox:
       enable: false
       text: ""
       url: ""
+    show_theme_chooser: false  # <-- Imposta questo su false
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
