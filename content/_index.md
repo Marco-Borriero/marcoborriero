@@ -1,4 +1,17 @@
 ---
+title: Home
+type: landing
+sections:
+  - block: about.biography
+    id: about
+    content:
+      username: me
+      text: ""
+---
+
+
+<!--
+---
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
@@ -125,3 +138,4 @@ sections:
         css_class: 'bg-gradient-to-br from-primary-500 via-primary-600 to-secondary-600 text-white shadow-2xl'
         css_style: ''
 ---
+-->
