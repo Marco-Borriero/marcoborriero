@@ -10,8 +10,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publication
-        publication_type: '2'
+          - publication/journal
     design:
       columns: '2'
       view: compact
@@ -23,8 +22,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publication
-        publication_type: '3'
+          - publication/preprint
     design:
       columns: '2'
       view: compact
@@ -36,8 +34,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publication
-        publication_type: '1'
+          - publication/conference
     design:
       columns: '2'
       view: compact
