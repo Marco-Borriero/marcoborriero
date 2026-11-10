@@ -24,6 +24,7 @@ sections:
       filters:
         folders:
           - publication/preprint
+        exclude_subfolders: false
     design:
       columns: '2'
       view: compact
@@ -36,6 +37,7 @@ sections:
       filters:
         folders:
           - publication/conference-paper
+        exclude_subfolders: false
     design:
       columns: '2'
       view: compact
