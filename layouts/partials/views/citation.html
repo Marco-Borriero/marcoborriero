@@ -14,7 +14,7 @@
   {{/* Titolo senza link */}}
   <span class="font-weight-bold">{{ $item.Title }}</span>.
 
-  {{/* Nome della rivista e dettagli */}}
+  {{/* Nome della rivista, dettagli e link arXiv Markdown */}}
   {{ if $item.Params.publication }}
     {{ $item.Params.publication | markdownify }}.
   {{ end }}
@@ -22,10 +22,5 @@
   {{/* DOI per esteso */}}
   {{ if $item.Params.doi }}
     <a href="https://doi.org/{{ $item.Params.doi }}" target="_blank" rel="noopener">https://doi.org/{{ $item.Params.doi }}</a>
-  {{ end }}
-
-  {{/* arXiv per esteso */}}
-  {{ if $item.Params.arxiv }}
-    <a href="https://arxiv.org/abs/{{ $item.Params.arxiv }}" target="_blank" rel="noopener">https://arxiv.org/abs/{{ $item.Params.arxiv }}</a>
   {{ end }}
 </div>
