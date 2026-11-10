@@ -13,7 +13,7 @@ bio:
   the supervision of Prof. Monia Lupparelli.
   
   My research interests focus on the theoretical foundations and methodological advances of causal inference,
-  causal discovery, graphical models, and functional data analysis. 
+  causal discovery and graphical models. 
   
   In particular, I work on establishing new statistical frameworks that leverage the causal invariance assumption
   to achieve simultaneous identification of direct causes for a given target variable and causal effect estimation.
@@ -37,11 +37,11 @@ links:
   #- icon: academicons/orcid
   #  url: https://orcid.org/0000-0002-1825-0097
 
-# interests:
-#   - Large Language Models
-#   - Computer Vision
-#   - Reinforcement Learning
-#   - AI Ethics
+interests:
+  - Causal Inference
+  - Causal Discovery
+  - Graphical Models
+  - Functional Data Analysis
 
 # education:
 #   - degree: PhD Computer Science
