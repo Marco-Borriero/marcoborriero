@@ -7,7 +7,7 @@ authors:
   - Veronica Vinciotti
 date: '2026-10-29T00:00:00Z'
 
-publication_types: ['2']
+publication_types: ['2', 'article-journal']
 
 publication: '*Journal of Computational and Graphical Statistics*, pp. 1–27'
 publication_short: ''
