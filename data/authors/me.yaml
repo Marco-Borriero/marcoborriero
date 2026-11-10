@@ -9,7 +9,7 @@ name:
   pronunciation: ''  # Example: Wáng Wěi
 role: PhD Candidate in Statistics
 bio:
-  I am a PhD Student in Statistics in the Department of Statistics, Computer Science, Applications at the University of Florence under 
+  I am a PhD Student in Statistics at the Department of Statistics, Computer Science, Applications of the University of Florence under 
   the supervision of Prof. Monia Lupparelli.
   
   My research interests focus on the theoretical foundations and methodological advances of causal inference,
@@ -18,7 +18,7 @@ bio:
   In particular, I work on establishing new statistical frameworks that leverage the causal invariance assumption
   to achieve simultaneous identification of direct causes for a given target variable and causal effect estimation.
 
-  If you wish to contact me, please find me at marco.borriero@unifi.it
+  Feel free to contact me at [marco.borriero@unifi.it](mailto:marco.borriero@unifi.it).
 
 affiliations:
   - name: University of Florence
