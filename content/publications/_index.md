@@ -10,7 +10,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publication
+          - publications
         publication_types: ['2']
     design:
       columns: '2'
@@ -23,7 +23,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publication
+          - publications
         publication_types: ['3']
     design:
       columns: '2'
@@ -36,7 +36,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publication
+          - publications
         publication_types: ['1']
     design:
       columns: '2'
