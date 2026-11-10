@@ -9,7 +9,7 @@ date: '2026-06-01T00:00:00Z'
 
 publication_types: ['3']
 
-publication: '*arXiv:2606.13281 [stat.ME]*'
+publication: '[*arXiv:2606.13281*](https://arxiv.org/abs/2606.13281)'
 publication_short: ''
 
 doi: ''
