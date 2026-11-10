@@ -1,7 +1,7 @@
 ---
 title: 'Gaussian Graphical Models for Partially Observed Multivariate Functional Data'
 authors:
-  - admin
+  - Marco Borriero
   - Luigi Augugliaro
   - Gianluca Sottile
   - Veronica Vinciotti
