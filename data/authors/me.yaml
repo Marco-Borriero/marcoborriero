@@ -8,22 +8,21 @@ name:
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
 role: PhD Candidate in Statistics
-bio:
-  text: |-
-    I am a PhD Student in Statistics at the Department of Statistics, Computer Science, Applications of the University of Florence,
-    working under the supervision of Prof. Monia Lupparelli.
-    
-    My research interests focus on the theoretical foundations and methodological advances of causal inference,
-    causal discovery, and graphical models. 
-    
-    In particular, I work on establishing new statistical frameworks that leverage the causal invariance assumption
-    to achieve simultaneous identification of direct causes for a given target variable and causal effect estimation.
-    
-    Prior to my doctoral studies, I earned a Bachelor's degree in Mathematics and a Master's degree in Mathematics and
-    Statistics. More recently, I spent a period as a Visiting Researcher at University College London, where I had the opportunity
-    to work with Prof. Kayvan Sadeghi.
-    
-    Feel free to contact me at [marco.borriero@unifi.it](mailto:marco.borriero@unifi.it).
+bio: |-
+  I am a PhD Student in Statistics at the Department of Statistics, Computer Science, Applications of the University of Florence,
+  working under the supervision of Prof. Monia Lupparelli.
+  
+  My research interests focus on the theoretical foundations and methodological advances of causal inference,
+  causal discovery, and graphical models. 
+  
+  In particular, I work on establishing new statistical frameworks that leverage the causal invariance assumption
+  to achieve simultaneous identification of direct causes for a given target variable and causal effect estimation.
+  
+  Prior to my doctoral studies, I earned a Bachelor's degree in Mathematics and a Master's degree in Mathematics and
+  Statistics. More recently, I spent a period as a Visiting Researcher at University College London, where I had the opportunity
+  to work with Prof. Kayvan Sadeghi.
+  
+  Feel free to contact me at [marco.borriero@unifi.it](mailto:marco.borriero@unifi.it).
 
 affiliations:
   - name: University of Florence
