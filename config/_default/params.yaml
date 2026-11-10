@@ -31,29 +31,40 @@ hugoblox:
   # THEME
   # Color and visual design system
   # ────────────────────────────────────────────────────────────────────────────
-  theme:
-    # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: system
-    # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
-    # Optional: Override theme pack colors
-    colors:
-      primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
-      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
-    # Optional: Mode-specific color overrides
-    colors_light: {}
-    colors_dark: {}
-    # Optional: Semantic surface color overrides
+  # theme:
+  #   # Mode: 'light', 'dark', or 'system' (follows OS preference)
+  #   mode: system
+  #   # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
+  #   pack: "default"
+  #   # Optional: Override theme pack colors
+  #   colors:
+  #     primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+  #     secondary: ""
+  #     neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
+  #   # Optional: Mode-specific color overrides
+  #   colors_light: {}
+  #   colors_dark: {}
+  #   # Optional: Semantic surface color overrides
+  #   surfaces:
+  #     background: ""
+  #     foreground: ""
+  #     header:
+  #       background: ""
+  #       foreground: ""
+  #     footer:
+  #       background: ""
+  #       foreground: ""
+
+# Optional: Semantic surface color overrides
     surfaces:
-      background: ""
-      foreground: ""
+      background: "#C5A880"  # Il tuo Caffè chiaro (Cappuccino)
+      foreground: "#111827"  # Testo grigio scurissimo (quasi nero) per leggere bene
       header:
-        background: ""
-        foreground: ""
+        background: "#C5A880" # Barra in alto dello stesso colore
+        foreground: "#111827"
       footer:
-        background: ""
-        foreground: ""
+        background: "#4B3621" # Caffè scuro (Espresso) per chiudere elegantemente il fondo pagina
+        foreground: "#FFFFFF" # Testo bianco solo sul footer scuro
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
