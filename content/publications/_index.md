@@ -11,7 +11,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: ['2']
+        publication_type: '2'
     design:
       columns: '2'
       view: citation
@@ -24,7 +24,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: ['3']
+        publication_type: '3'
     design:
       columns: '2'
       view: citation
@@ -37,7 +37,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: ['1']
+        publication_type: '1'
     design:
       columns: '2'
       view: citation
