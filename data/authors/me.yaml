@@ -13,13 +13,15 @@ bio: |-
   working under the supervision of Prof. Monia Lupparelli.
   
   My research interests focus on the theoretical foundations and methodological advances of causal inference,
-  causal discovery, and graphical models. 
+  causal discovery, graphical models, and functional data analysis.
   
   In particular, I work on establishing new statistical frameworks that leverage the causal invariance assumption
   to achieve simultaneous identification of direct causes for a given target variable and causal effect estimation.
   
   Prior to my doctoral studies, I earned a Bachelor's degree in Mathematics and a Master's degree in Mathematics and
-  Statistics. More recently, I spent a period as a Visiting Researcher at University College London, where I had the opportunity
+  Statistics. 
+  
+  Recently, I spent a period as a Visiting Researcher at University College London, where I had the opportunity
   to work with Prof. Kayvan Sadeghi.
   
   Feel free to contact me at [marco.borriero@unifi.it](mailto:marco.borriero@unifi.it).
@@ -41,11 +43,11 @@ links:
   #- icon: academicons/orcid
   #  url: https://orcid.org/0000-0002-1825-0097
 
-interests:
-  - Causal Inference
-  - Causal Discovery
-  - Graphical Models
-  - Functional Data Analysis
+# interests:
+#   - Causal Inference
+#   - Causal Discovery
+#   - Graphical Models
+#   - Functional Data Analysis
 
 # education:
 #   - degree: PhD Computer Science
