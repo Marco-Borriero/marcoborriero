@@ -11,6 +11,7 @@ sections:
       filters:
         folders:
           - publication/journal-article
+        exclude_subfolders: false
     design:
       columns: '2'
       view: compact
