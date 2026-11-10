@@ -11,7 +11,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_types: ['2', 'article-journal']
+        publication_types: ['2']
     design:
       columns: '2'
       view: citation
@@ -24,7 +24,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_types: ['3', 'article', 'preprint']
+        publication_types: ['3']
     design:
       columns: '2'
       view: citation
@@ -37,7 +37,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_types: ['1', 'paper-conference']
+        publication_types: ['1']
     design:
       columns: '2'
       view: citation
