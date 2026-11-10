@@ -20,8 +20,8 @@ sections:
         education: ''
         interests: ''
     design:
-      # Questa riga nasconde l'icona SVG di fianco al titolo della sezione:
-      css_class: '[&_svg]:hidden'
+      # Nasconde gli SVG SOLO dentro i titoli h2 e h3, preservando le icone social
+      css_class: '[&_h2_svg]:hidden [&_h3_svg]:hidden'
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
