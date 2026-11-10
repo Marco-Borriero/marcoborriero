@@ -15,5 +15,5 @@ main:
     weight: 20
 
   - name: CV
-    url: '/uploads/Marco_Borriero_CV.pdf'
+    url: 'uploads/Marco_Borriero_CV.pdf'
     weight: 30
