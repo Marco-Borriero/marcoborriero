@@ -23,7 +23,7 @@ sections:
       # Nasconde gli SVG SOLO dentro i titoli h2 e h3, preservando le icone social
       css_class: '[&_h2_svg]:hidden [&_h3_svg]:hidden'
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
-      background: {}
+      background: 
         gradient_mesh:
           enable: true
 
