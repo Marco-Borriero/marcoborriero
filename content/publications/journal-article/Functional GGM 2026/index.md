@@ -8,7 +8,7 @@ authors:
 date: '2026-10-29T00:00:00Z'
 
 # Tipologia 2 = Journal article
-publication_types: ['2']
+publication_types: ['journal-article']
 
 publication: '*Journal of Computational and Graphical Statistics*, pp. 1–27'
 publication_short: ''
