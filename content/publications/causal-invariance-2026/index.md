@@ -9,7 +9,7 @@ date: '2026-06-01T00:00:00Z'
 
 tags: ['preprint']
 
-publication: '[*arXiv:2606.13281*]'
+publication: '[*arXiv:2606.13281*](https://arxiv.org/abs/2606.13281)'
 
 doi: ''
 arxiv: '2606.13281'
