@@ -10,7 +10,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publication/journal
+          - publication/journal-article
     design:
       columns: '2'
       view: compact
@@ -34,7 +34,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publication/conference
+          - publication/conference-paper
     design:
       columns: '2'
       view: compact
