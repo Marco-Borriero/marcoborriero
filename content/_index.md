@@ -16,10 +16,12 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
       headings:
-        about: ''
+        about: 'About me'  # <-- Inserisci qui il tuo nuovo titolo (es. Chi Sono, Su di me, ecc.)
         education: ''
         interests: ''
     design:
+      # Questa riga nasconde l'icona SVG di fianco al titolo della sezione:
+      css_style: 'h2 svg, h3 svg { display: none !important; }'
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
