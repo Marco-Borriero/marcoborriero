@@ -21,7 +21,7 @@ sections:
         interests: ''
     design:
       # Questa riga nasconde l'icona SVG di fianco al titolo della sezione:
-      css_style: 'h2 svg, h3 svg { display: none !important; }'
+      css_class: '[&_svg]:hidden'
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
