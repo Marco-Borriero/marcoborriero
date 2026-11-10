@@ -3,7 +3,6 @@ title: Publications
 type: landing
 
 sections:
-  # Sezione 1: Journal Articles
   - block: collection
     content:
       title: Journal Articles
@@ -11,12 +10,12 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: '2'
+        tags:
+          - journal
     design:
       columns: '2'
       view: citation
 
-  # Sezione 2: Preprints
   - block: collection
     content:
       title: Preprints
@@ -24,12 +23,12 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: '3'
+        tags:
+          - preprint
     design:
       columns: '2'
       view: citation
 
-  # Sezione 3: Conference Papers
   - block: collection
     content:
       title: Conference Papers
@@ -37,7 +36,8 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: '1'
+        tags:
+          - conference
     design:
       columns: '2'
       view: citation
